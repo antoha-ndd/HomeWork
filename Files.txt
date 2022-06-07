@@ -4,3 +4,4 @@
 Кондрашов А. А. KondrashovAA.txt
 Николаева Е. С. NikolaevaES.txt
 Шинов М.С. ShinovMS.txt
+Кузьмин К.И. KuzminKI.txt
