@@ -6,3 +6,4 @@
 Шинов М.С. ShinovMS.txt
 Кузьмин К.И. KuzminKI.txt
 Иван П. IvanPetrov.txt
+Шаров С.В. SharovSV.txt
