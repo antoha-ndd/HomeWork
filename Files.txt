@@ -3,3 +3,7 @@
 Лавринов А. С.   LavrinovAS.txt
 Кондрашов А. А. KondrashovAA.txt
 Николаева Е. С. NikolaevaES.txt
+Шинов М.С. ShinovMS.txt
+Иван П. IvanPetrov.txt
+Шаров С.В. SharovSV.txt
+Чумак Н.А. ChumakNA.txt
